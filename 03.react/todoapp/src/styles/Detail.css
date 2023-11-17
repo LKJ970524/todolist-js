@@ -98,7 +98,6 @@ button#remove:hover {
   cursor: default;
 }
 
-/* toggle 버튼 */
 .toggle {
   display: flex;
   align-items: center;

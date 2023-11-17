@@ -17,14 +17,13 @@ div#content {
   width: 100%;
   margin: 0 auto;
   height: calc(100% - 80px);
-  /* 임시 스크롤 */
   overflow-y: scroll;
-  -ms-overflow-style: none; /* IE and Edge */
-  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
 
 .list-container::-webkit-scrollbar {
-  display: none; /* Chrome, Safari, Opera*/
+  display: none; 
 }
 
 .list-item {
