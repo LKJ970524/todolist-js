@@ -97,7 +97,7 @@ div#content {
 
 .enrollment {
   position: fixed;
-  right: calc(50% - 135px);
+  right: calc(50% + 140px);
   bottom: 12%;
   transform: translate(50%, 50%);
   border-radius: 16px;
