@@ -23,7 +23,7 @@ article.text {
   border-radius: 16px 16px 0 0;
   font-size: 1.5rem;
   padding: 32px 25px;
-  background-color: #b1f3de;
+  background-color: plum;
   border: none;
   outline: none;
 }
@@ -34,7 +34,7 @@ article.text {
   font-size: 1rem;
   font-weight: bold;
   padding: 12px 25px;
-  background-color: #b1f3de;
+  background-color: plum;
   border: none;
   outline: none;
   resize: none;
@@ -48,7 +48,7 @@ article.dateCheck {
 }
 
 p.updatedDate {
-  color: wheat;
+  color: cornflowerblue;
   font-size: 1.5rem;
   font-weight: bold;
 }
@@ -78,12 +78,14 @@ button.backArrow {
   font-size: 1rem;
   width: 100%;
   height: 60px;
-  background-color: #fdd287;
+  background-color: #4B0082;
+  color: antiquewhite;
   cursor: pointer;
 }
 
 button#remove {
   background-color: #71718d;
+  color: black;
 }
 
 button#remove:hover {
@@ -123,11 +125,11 @@ button#remove:hover {
   left: 4px;
   transform: translateY(-50%);
   border-radius: 50%;
-  background: #fff;
+  background: black;
 }
 
 #toggle:checked ~ .toggleSwitch {
-  background: #288d8d;
+  background: plum;
 }
 
 #toggle {

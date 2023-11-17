@@ -42,7 +42,7 @@ textarea.contentRegist {
 }
 
 #registerBtn {
-  background-color: #fdd287;
+  background-color: plum;
   width: 100%;
   height: 60px;
   border-radius: 16px;
@@ -50,6 +50,7 @@ textarea.contentRegist {
   font-weight: bold;
   cursor: pointer;
   border: 2px solid #303037;
+  color: black;
 }
 
 #registerBtn:disabled {

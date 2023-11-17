@@ -1,5 +1,5 @@
 html {
-  background: #288d8d;
+  background: midnightblue;
 }
 
 #page {
@@ -31,7 +31,7 @@ div#content {
   display: block;
   width: 100%;
   border-radius: 16px;
-  background-color: #b1f3de;
+  background-color: purple;
   margin-bottom: 16px;
   padding: 15px;
 }
@@ -44,7 +44,7 @@ div#content {
   cursor: pointer;
 }
 .list-item.done {
-  background-color: #6dd1b1;
+  background-color: plum;
 }
 .list-item.done label {
   text-decoration: line-through;
@@ -100,10 +100,9 @@ div#content {
   right: calc(50% - 135px);
   bottom: 12%;
   transform: translate(50%, 50%);
-  border: 2px solid #303037;
   border-radius: 16px;
   background: url('/enrollment.svg') no-repeat center / 50%;
-  background-color: #fdd287;
+  background-color: plum;
   width: 60px;
   height: 60px;
 }
