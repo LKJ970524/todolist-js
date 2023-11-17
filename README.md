@@ -8,6 +8,10 @@
 
 [심상원][], [안태욱][], [우승미][], [이동호][]
 
+## React 프로젝트
+
+[이규정][]
+
 ### 구현 페이지
 
 - 메인 페이지(목록) : 할 일, 완료, 전체 목록 보기
@@ -17,7 +21,7 @@
 ## 기술 스택
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">  
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/react-gray?style=for-the-badge&logo=react&logoColor=white">
 
 ## 서버 구동
 
@@ -35,6 +39,12 @@ cd 02.typescript/todoapp
 npm run dev
 ```
 
+- React 프로젝트
+
+```
+cd 03.react/todoapp
+npm run dev
+```
 [이보경]: https://github.com/ebokyung
 [이규정]: https://github.com/LKJ970524
 [이동호]: https://github.com/rustandbone
