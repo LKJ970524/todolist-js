@@ -86,6 +86,7 @@ div#content {
 .category-item {
   cursor: pointer;
   padding: 10px;
+  color: white;
 }
 
 .category-item.active {
